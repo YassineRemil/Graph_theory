@@ -31,7 +31,7 @@ void suppression(int position,int taille)
 
  for (i = position; i <taille-1; i++)
   node[i] = node[i+1];
- /*printf("Aprés la suppression,le tableau = ");
+ /*printf("AprÃ©s la suppression,le tableau = ");
  for (i = 0; i <taille-1; i++)
     printf("%d\t", node[i]);*/
 }
