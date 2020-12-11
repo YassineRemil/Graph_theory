@@ -65,7 +65,7 @@ int main(){
     }
     for(i=0;i<n;i++){
         if(B[n+1][i]!=B[n][i]){
-            printf("\n WARNING --<Erreur>--!!!: Il y a un arc negatif dans ce graphe. Corrigez-le et executez à nouveau.");
+            printf("\n WARNING --<Erreur>--!!!: Il y a un arc negatif dans ce graphe. Corrigez-le et executez Ã  nouveau.");
             return 0;
         }
     }
